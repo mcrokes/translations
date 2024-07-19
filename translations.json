@@ -1,0 +1,10 @@
+{
+  "en": {
+    "hello": "Hello!",
+    "select_lang": "Pick a language"
+  },
+  "es": {
+    "hello": "¡Hola!",
+    "select_lang": "Seleccione el idioma"
+  }
+}
