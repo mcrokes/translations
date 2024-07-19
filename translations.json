@@ -1,10 +1,12 @@
 {
   "en": {
     "hello": "Hello!",
-    "select_lang": "Pick a language"
+    "select_lang": "Pick a language",
+    "message1": "Test"
   },
   "es": {
     "hello": "¡Hola!",
-    "select_lang": "Seleccione el idioma"
+    "select_lang": "Seleccione el idioma",
+    "message1": "prueba"
   }
 }
